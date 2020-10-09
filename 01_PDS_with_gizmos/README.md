@@ -3,7 +3,7 @@
 ## 개요
 
 - Poisson Disk Sampling의 결과를 Unity 내부 Gizmos를 통해 시각화 한다.
-
+![capture](https://user-images.githubusercontent.com/58730856/95547448-fedb4d80-0a3d-11eb-9a1a-c16a7d908130.gif)
 
 
 ## Poisson Disk Sampling 알고리즘 요약
