@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{424F062D-6ED4-D078-8F31-DF57B7E91C59}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PossionDiskSampling.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MeshGenerator.cs" Line="39" Column="19" />
+      <File FileName="Assets/Scripts/PossionDiskSampling.cs" Line="67" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b4f409a-a61b-42d2-b7f4-ea9b4cfa345e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
