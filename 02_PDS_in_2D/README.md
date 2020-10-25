@@ -13,7 +13,7 @@
 
 ## 프로젝트 발전 방향
 
-- 이전에 구현한 Procedural Geometry Generator를 통해 나무 오브젝트의 y위치를 조정한다.
+- 3D 환경에서 PDS를 적용해 메쉬를 생성한다.
 
 ## Reference
 
